@@ -1,6 +1,5 @@
 .gitignore
 
 node_modules/
-built/
 .DS_Store
 .env
